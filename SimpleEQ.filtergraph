@@ -61,10 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.6656441717791411" y="0.6122448979591837" useARA="0">
+  <FILTER uid="5" x="0.6656441717791411" y="0.6122448979591837" useARA="0"
+          uiLastX_Normal="41" uiLastY_Normal="116" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="/Users/Zuzetta/Library/Audio/Plug-Ins/VST3/SimpleEQ.vst3"
-            uniqueId="ff9fa81f" isInstrument="0" fileTime="18bb23fbcf2" infoUpdateTime="18bb251341d"
+            uniqueId="ff9fa81f" isInstrument="0" fileTime="18bb2f02d0f" infoUpdateTime="18bb2f13af5"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acfafffe"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -81,10 +82,10 @@
           uiLastX_Normal="22" uiLastY_Normal="453" uiopen_Normal="1">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18bb251341d"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18bb2f13af5"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
-    <STATE>535.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPjxKUMWYxM2KZUmdkQGcg8BQucmar8VXjM2KGUWZjUFHPIWXoMWYtzFbyDpDTOAEUXwEXjgFdIUYmk1atQzakMGSu8FbZIUYmk1atQTXzE1WP.QRyMUYrU1XzUFYRU1Yo8laZIUYmk1at4TXsUFBOAAb...........lIpt59+G..fKhpqt++A.............fIpt59+G...B.........nB........P.....9+G.......................................v++A..............mdL.9+W.AjfVNU1cfHUYmk1atkfDgYFbrAA.RDVcm4Vzf.gUFkFakARLXUkazkFcrUFY.f..Y.fI.rB.IAPT.jE.dA.b.TG.5Avd.zG.DBPi.TI.jB.z.HM.aCf5.Te.HDvDAPQ.GF.hALY.TFPlArY.fFvnAnJ.......f.A.........fH..................P.yB</STATE>
+    <STATE>599.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPj1KUMWYxM2KZUmdkQGcg8RS0MWZi8RS0MWZi8RSkQVZg4BauMVXrkldkQ1KMU2boM1KU41Zt81ctARPxQWZyQ2KU41Zt81ctARPrIVcs8RQrMGZgQVXoAhQI4TPLARSAMEUEIEHy3RavMSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA..........XK+Mo6+e...9weS59+G..............K+Mo6+e...H.........fJ.........A....P5e........................................++G..............Zey.3+eADPBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PZ.PDfDArQ.pDPMAfT.SE.UAbb.HGvzAPc.YGv1A.d.iGf5........BD..........h...................ALO</STATE>
     <LAYOUT>
       <INPUTS/>
       <OUTPUTS>
